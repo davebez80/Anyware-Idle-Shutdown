@@ -1,7 +1,0 @@
-{
-  "itemDisplayName": "Create an Azure VM with a new AD Forest and another Azure VM and join to domain",
-  "description": "Create an Azure VM with a new AD Forest and another Azure VM and join to domain",
-  "summary": "Create an Azure VM with a new AD Forest and another Azure VM and join to domain",
-  "githubUsername": "bill-dall",
-  "dateUpdated": "2016-12-15"
-}

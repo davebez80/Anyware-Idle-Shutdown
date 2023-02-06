@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (c) 2018 Teradici Corporation
+# Copyright (c) 2018 Teradici Corporation; © Copyright 2023 HP Development Company, L.P.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -53,7 +53,7 @@ function create_monitor_script() {
     chmod 644 ${MONITOR_SCRIPT}
     cat <<'EOF'> ${MONITOR_SCRIPT}
 #!/usr/bin/python
-# Copyright 2017 Teradici Corporation
+# Copyright 2017 Teradici Corporation; © Copyright 2023 HP Development Company, L.P.
 
 import syslog
 import time
