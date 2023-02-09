@@ -1,7 +1,6 @@
 # What is HP Anyware? #
 
-[HP Anyware](https://www.hp.com/us-en/solutions/digital-workspaces.html)
-HP Anyware is the enterprise software IT needs to keep people productive with secured access to their digital workspaces without a VPN.
+[HP Anyware](https://www.hp.com/us-en/solutions/digital-workspaces.html) is the enterprise software IT needs to keep people productive with secured access to their digital workspaces without a VPN.
 
 Built on the same technology that won both Teradici and HP Engineering Emmys, the flexible deployment options future proof IT against ever-evolving infrastructure, network, and hybrid workforce needs.
 
